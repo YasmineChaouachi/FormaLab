@@ -7,3 +7,15 @@
     font-style: inherit;
     font-weight: 500;
 }
+.navbar-nav a:hover {
+    cursor: pointer;
+    border-top: 2px solid #f6abc9;
+    width: fit-content;
+}
+.about{
+    text-align: left !important;
+    margin-left: 80px !important;
+}
+.about p.h1{
+    margin: 30px !important;
+}
