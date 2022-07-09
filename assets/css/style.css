@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+
+}
+.h1,.h3{
+    font-family: 'Lobster Two', serif ;
+    font-style: inherit;
+    font-weight: 500;
+}
